@@ -1,6 +1,6 @@
 # Techfest SLIET
 
-Workshop Title: Building Cross-Platform Apps with .NET MAUI
+Workshop Title: Building Cross-Platform Apps with .NET MAUI  
 Registration Link: https://techfestsliet.org/workshops
 
 ## Pictures from the session
